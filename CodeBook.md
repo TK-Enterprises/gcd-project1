@@ -38,7 +38,7 @@ fBodyAccJerkMag
 fBodyGyroMag
 fBodyGyroJerkMag
  
- # This is the complete list of variables. The values are average per activity per Subject ID 
+ ## This is the complete list of variables. The values are average per activity per Subject ID 
  
  tBodyAcc.mean...X	
  tBodyAcc.mean...Y	
