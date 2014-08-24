@@ -21,10 +21,10 @@ You should create one R script called run_analysis.R that does the following.
 
 ### Content
 
-  mk_tidy_data.R - R script - Read UCI HAR data and outputs UCI_HAR_tidy_data.txt tidy data file
-  Code_Book.md - Data Dictionary for UCI_HAR_tidy_data.txt
-  README.md - This README file
-  UCI_HAR_tidy_data.txt - Tidy data file created by mk_tidy_data.R from UCI HAR Dataset
+  - mk_tidy_data.R - R script - Read UCI HAR data and outputs UCI_HAR_tidy_data.txt tidy data file
+  - Code_Book.md - Data Dictionary for UCI_HAR_tidy_data.txt
+  - README.md - This README file
+  - UCI_HAR_tidy_data.txt - Tidy data file created by mk_tidy_data.R from UCI HAR Dataset
     
 ### Solution
 
